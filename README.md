@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m @Yerin99 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=diluny)](https://solved.ac/diluny)
-**👀 I’m interested in Django and Hadoop.**  
-**🌱 I’m currently learning TypeScript and Django.**  
-**💞️ I’m looking to collaborate on Django.**  
+**👀 I’m interested in NLP.**  
+**🌱 I’m currently learning Javascript.**  
 **📫 How to reach me ... diluny2@naver.com**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yerin99&show_icons=true&theme=radical"><br>
