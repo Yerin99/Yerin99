@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Yerin99 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=diluny)](https://solved.ac/diluny)
 **👀 I’m interested in NLP.**  
-**🌱 I’m currently learning Javascript.**  
+**🌱 I’m currently learning Linux.**  
 **📫 How to reach me ... diluny2@naver.com**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yerin99&show_icons=true&theme=radical"><br>
