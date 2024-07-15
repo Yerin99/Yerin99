@@ -5,8 +5,8 @@
 **🌱 I’m currently learning Linux.**  
 **📫 How to reach me ... diluny2@naver.com**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yerin99&show_icons=true&theme=radical"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yerin99&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=Yerin99&show_icons=true&theme=radical"><br>
 
 ### 🥳 If you're curious about me, look around the pinned repositories below!
 
