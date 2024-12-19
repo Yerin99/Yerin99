@@ -33,7 +33,6 @@
 - Threads: [https://www.threads.net/@yerinn.v](https://www.threads.net/@yerinn.v)
 
 ### 🥳 If you're curious about me, look around the pinned repositories below!
----
 
 <!---
 Yerin99/Yerin99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
