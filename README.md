@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yerin Park! [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=diluny)](https://solved.ac/diluny)
 
-🧑‍💻 **M.S. Student in AI at Pusan National University (PNU)** | specializing in NLP & LLM  
+🧑‍💻 **M.S. Student in AI at Pusan National University Data Intelligence LAB (PNUDI)** | specializing in NLP & LLM  
 💻 **B.S. in Computer Science from Pusan National University (PNU)** | graduated with a foundation in algorithms and computer systems  
 🤖 Researching how to make AI more human-like and helpful!  
 
