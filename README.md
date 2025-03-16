@@ -29,8 +29,9 @@
 
 ## 📫 Let's Connect!
 - Email: [diluny2@naver.com](mailto:diluny2@naver.com)  
-- Blog: [https://happyday2yerin.tistory.com](https://happyday2yerin.tistory.com)
+- Blog: [https://happyday2yerin.tistory.com](https://happyday2yerin.tistory.com), [https://velog.io/@diluny/posts](https://velog.io/@diluny/posts)
 - Threads: [https://www.threads.net/@yerinn.v](https://www.threads.net/@yerinn.v)
+- Linkedin: [https://www.linkedin.com/in/yerin-park-719298352/](https://www.linkedin.com/in/yerin-park-719298352/)
 
 ### 🥳 If you're curious about me, look around the pinned repositories below!
 
